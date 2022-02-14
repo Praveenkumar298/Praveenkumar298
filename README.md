@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate Python Developer from India.</h3>
 
 
-- 🔭 I’m currently working on **Python developer**
+- 🔭 I’m currently working on **Django Rest Framwork**
 
 - 🌱 I’m currently learning **Machine learning/ AI**
 

@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python, Django,AI/ML**
 
-- 📫 How to reach me **praveen.nickkumar@gmail.com**
+- 📫 How to reach me **praveen.nickumar@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 

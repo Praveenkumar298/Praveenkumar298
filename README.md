@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Django Rest Framwork**
 
-- 🌱 I’m currently learning **Machine learning/ AI**
+- 🌱 I’m currently learning **Machine learning/ AI(Llama, langchain)**
 
-- 💬 Ask me about **Python, Django,C**
+- 💬 Ask me about **Python, Django,AI/ML**
 
 - 📫 How to reach me **praveen.nickkumar@gmail.com**
 
